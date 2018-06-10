@@ -23,7 +23,7 @@ In this session, we'll learn those common commands by exploring and manipulating
 [Other useful commands](sections/other-commands.md)  
 [Glossary](sections/glossary.md)  
 
-[Get Started >>>]((sections/what-is-the-command-line.md))
+
 
 -----
  
