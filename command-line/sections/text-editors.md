@@ -9,9 +9,8 @@ Before we explain text-based computing, we want to give a general sense of this 
 
 ![Word Doc](worddoc.png)
 
-If opened in a text editor, this Word .docx file will look something like this
+If opened in a text editor, this Word .docx file will look something all together different.
 
-![Cat Word Doc](CatWordDoc.png)
 
 if you ask the commandline to read that file. Word documents which look like "just words!" are actually comprised of an archive of extensible markup language (XML) instructions that only Microsoft Word can read. Plaintext files can be opened in a number of different editors and can be read within the command line.
 
