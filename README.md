@@ -1,4 +1,4 @@
-# Social Media Analysis with Twitter API and  Python
+# Social Media Analysis in the Humanities
 
 Repository for the Social Media Research workshop at the Digital Humanities Summer Institute.
 
