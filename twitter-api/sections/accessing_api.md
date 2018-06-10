@@ -4,6 +4,10 @@
 
 1\. Clone or download this repository to your computer and navigate to the folder once it's downloaded.  
 
+	sudo pip install git
+	git clone https://github.com/Grantglass/social-media-workshop.git
+
+
 2\. Open the my_keys.py file in your text editor.  
 
 3\. Copy your four numbers (Consumer Key, Consumer Secret, Access Token Key, and Access Token Secret), replacing the xxx on each relevant line. Make sure to keep the single quotes around the numbers.  
@@ -26,7 +30,7 @@ to return to the bash shell.
 
 6\. If Tweepy isn't installed, run
 
-	pip install tweepy
+	sudo pip install tweepy
 
 at the bash shell to install the library.  
 
