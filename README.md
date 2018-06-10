@@ -11,7 +11,7 @@ To prepare for this course, please:
 
 ## DHSI Schedule
 
-1pm-1:15pm: [Introduction](sections/introduction.md) and Twiiter handles (https://docs.google.com/document/d/10x8H6GIls_7OcA9buAdb2AhKLgbSOFvcEWR3iG8rWQo/edit?usp=sharing)
+1pm-1:15pm: [Introduction](sections/introduction.md) and Twitter handles (https://docs.google.com/document/d/10x8H6GIls_7OcA9buAdb2AhKLgbSOFvcEWR3iG8rWQo/edit?usp=sharing)
 
 
 1:15-1:45pm: Discussion of the ethics in social media research.
