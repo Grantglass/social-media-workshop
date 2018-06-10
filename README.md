@@ -12,11 +12,17 @@ To prepare for this course, please:
 ## DHSI Schedule
 
 1pm-1:15pm: [Introduction](sections/introduction.md)
+
 1:15-1:145pm: Discussion of the ethics in social media research.
+
 1:45pm-2:15pm: What does social media research look like in the classroom and beyond?
+
 2:15pm-2:30pm: Break
+
 2:30pm-3:00pm: Introduction to TAGS and coding tweets.
+
 3:00pm-3:30pm: Brief introduction to DH Box and the command line.
+
 3:30pm-4:00pm: Introductions to the Twitter API and Python.
 
 
