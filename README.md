@@ -19,11 +19,11 @@ To prepare for this course, please:
 
 2:15pm-2:30pm: Break
 
-2:30pm-3:00pm: Introduction to TAGS and coding tweets.
+2:30pm-3:00pm: Brief introduction to DH Box and the command line.(command-line/README.md)
 
-3:00pm-3:30pm: Brief introduction to DH Box and the command line.
+3:00pm-3:30pm: Introductions to the Twitter API and Python.[Twitter API](twitter-api/README.md),[What is an API?](sections/WhatIsAPI.md)
 
-3:30pm-4:00pm: Introductions to the Twitter API and Python.
+3:30pm-4:00pm: Introduction to TAGS and coding tweets.
 
 
 ### Practical Materials
