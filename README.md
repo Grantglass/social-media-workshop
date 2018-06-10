@@ -23,7 +23,7 @@ To prepare for this course, please:
 
 3:00pm-3:30pm: Introductions to the Twitter API and Python.[Twitter API](twitter-api/README.md),[What is an API?](sections/WhatIsAPI.md)
 
-3:30pm-4:00pm: Introduction to TAGS and coding tweets.
+3:30pm-4:00pm: Introduction to TAGS and coding tweets.(https://tags.hawksey.info/get-tags/)
 
 
 ### Practical Materials
