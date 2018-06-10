@@ -1,4 +1,4 @@
-[<<< Previous](introduction.md) | [Next >>>](dhbox.md)
+[<<< Previous](introduction.md) | 
 
 ## What is an API?
 
@@ -17,4 +17,4 @@ as https://programminghistorian.org/about. A URL consists of a protocol (http://
 
 `REST` (REpresentational State Transfer) is a philosophy that describes some best practices for implementing APIs. APIs designed with some or all of these principles in mind are called REST APIs. While the API outlined in this lesson uses some REST principles, there is a great deal of disagreement around this term. For this reason, I do not describe the example APIs here as REST APIs, but instead as web or HTTP APIs.
 
-[<<< Previous](introduction.md) | [Next >>>](dhbox.md)
+[<<< Previous](introduction.md) | 
