@@ -13,7 +13,7 @@ To prepare for this course, please:
 
 1pm-1:15pm: [Introduction](sections/introduction.md)
 
-1:15-1:145pm: Discussion of the ethics in social media research.(https://docs.google.com/document/d/1j_6gJuQlP1U-LGotZMCELp2DpSOLPSMdKt7P-K6TOxo/edit?usp=sharing)
+1:15-1:45pm: Discussion of the ethics in social media research.(https://docs.google.com/document/d/1j_6gJuQlP1U-LGotZMCELp2DpSOLPSMdKt7P-K6TOxo/edit?usp=sharing)
 
 1:45pm-2:15pm: What does social media research look like in the classroom and beyond?
 
