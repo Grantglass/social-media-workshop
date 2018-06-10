@@ -19,7 +19,7 @@ To prepare for this course, please:
 
 2:15pm-2:30pm: Break
 
-2:30pm-3:00pm: Brief introduction to DH Box and the command line.(command-line/README.md)
+2:30pm-3:00pm: Brief introduction to DH Box and the command line.[Introduction to the command line](command-line/README.md)
 
 3:00pm-3:30pm: Introductions to the Twitter API and Python.[Twitter API](twitter-api/README.md),[What is an API?](sections/WhatIsAPI.md)
 
